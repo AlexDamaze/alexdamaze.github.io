@@ -1,7 +1,3 @@
-layout: page
-title: "homepage"
-permalink: /index 
-
 ## This is all that exist
 
 <!--## Welcome to GitHub Pages
