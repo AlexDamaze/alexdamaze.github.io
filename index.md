@@ -1,3 +1,7 @@
+layout: page
+title: "homepage"
+permalink: 
+
 ## This is all that exist
 
 <!--## Welcome to GitHub Pages
