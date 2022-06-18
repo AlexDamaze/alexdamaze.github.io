@@ -1,6 +1,6 @@
 layout: page
 title: "homepage"
-permalink: 
+permalink: /index 
 
 ## This is all that exist
 
